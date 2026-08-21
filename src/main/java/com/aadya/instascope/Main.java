@@ -37,7 +37,7 @@ public class Main extends Application {
         description.getStyleClass().add("subtitle");
 
         Label instructions = new Label(
-                "Step 1\n\n" +
+                "Steps:\n\n" +
                 "Go to Instagram → Settings → Accounts Center\n" +
                 "→ Your information and permissions\n" +
                 "→ Download your information\n\n" +
