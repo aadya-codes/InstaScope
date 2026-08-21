@@ -1,0 +1,59 @@
+.root {
+    -fx-font-family: "System";
+    -fx-background-color: #d8ddb5;
+}
+
+.title {
+    -fx-font-size: 32px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #164e4a;
+}
+
+.subtitle {
+    -fx-font-size: 16px;
+    -fx-text-fill: #52706d;
+}
+
+.instruction-box {
+    -fx-background-color: #ffffff;
+    -fx-background-radius: 18px;
+    -fx-padding: 25px;
+}
+
+.instruction {
+    -fx-font-size: 15px;
+    -fx-text-fill: #385653;
+}
+
+.button {
+    -fx-background-color: #70c9c0;
+    -fx-text-fill: white;
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+    -fx-background-radius: 12px;
+    -fx-padding: 10px 20px;
+    -fx-cursor: hand;
+}
+
+.button:hover {
+    -fx-background-color: #55b5ab;
+}
+
+.username-list {
+    -fx-background-color: #d8ddb5;
+    -fx-background-radius: 12px;
+    -fx-border-color: #70c9c0;
+    -fx-border-radius: 12px;
+    -fx-padding: 5px;
+}
+
+.list-cell {
+    -fx-background-color: transparent;
+    -fx-text-fill: #164e4a;
+    -fx-font-size: 16px;
+    -fx-padding: 8px;
+}
+
+.list-cell:hover {
+    -fx-background-color: #eef8f7;
+}
